@@ -37,10 +37,12 @@ RandomOverSampler function is used to create a Resampled Training Data.
 
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
+  
 The balanced accuracy score is 94%. Precision is 100% for '0' and 85% for '1'. Recall scores are 99% for '0' and 90% for '0'.
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
+  
 The balanced accuracy score is 99%. Precision is 100% for '0' and 85% for '1'. Recall scores are 99% for '0' and 99% for '0'.
 
 
