@@ -51,9 +51,11 @@ The balanced accuracy score is 99%. Precision is 100% for '0' and 85% for '1'. R
 Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
 
 * Which one seems to perform best? How do you know it performs best?
+
 Both models perform well. The evalution metrics show the high performance of the models.
 
 * Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
+
 Both predictions of '0's and '1's are important for the model to function. The problem of predicting high risk loans is overshadowed by the good loans. By resampling the data and fitting the model, a better model for predictions is developed.
 
 If you do not recommend any of the models, please justify your reasoning.
