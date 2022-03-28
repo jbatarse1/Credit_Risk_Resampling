@@ -54,8 +54,12 @@ Resources folder contains the following CSV files:
 The following information evaluates the results of both models:
 
 
+Original data for model:
+<img width="753" alt="Original Data" src="https://user-images.githubusercontent.com/93550651/160334104-61071e6f-7c73-492a-9bac-6a9d4792ea4a.png">
 
 
+Resampled data for model:
+<img width="753" alt="Resampling of Data" src="https://user-images.githubusercontent.com/93550651/160334164-12ee945f-cff9-4f9d-9c60-215a6bee9d46.png">
 
 
 
